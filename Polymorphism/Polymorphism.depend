@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1611057661 source:d:\ege\dosyalarým\c++\polymorphism\employee.cpp
+	"Employee.h"
+	<iostream>
+	<cctype>
+
+1611057651 d:\ege\dosyalarým\c++\polymorphism\employee.h
+	<string>
+
+1611058278 source:d:\ege\dosyalarým\c++\polymorphism\hourlyemployee.cpp
+	"HourlyEmployee.h"
+	<iostream>
+
+1611057061 d:\ege\dosyalarým\c++\polymorphism\hourlyemployee.h
+	"Employee.h"
+
+1611059420 source:d:\ege\dosyalarým\c++\polymorphism\main.cpp
+	<iostream>
+	"Employee.h"
+	"SalaryEmployee.h"
+	"HourlyEmployee.h"
+
+1611057833 source:d:\ege\dosyalarým\c++\polymorphism\salaryemployee.cpp
+	"SalaryEmployee.h"
+
+1611056901 d:\ege\dosyalarým\c++\polymorphism\salaryemployee.h
+	"Employee.h"
+

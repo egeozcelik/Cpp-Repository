@@ -1,0 +1,2 @@
+# BankOtomationSample
+mevduat hesaplama örneği

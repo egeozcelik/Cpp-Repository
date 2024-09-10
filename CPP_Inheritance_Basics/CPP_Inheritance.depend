@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1611613723 source:d:\ege\dosyalarým\c++\cpp_inheritance\basepersonal.cpp
+	"BasePersonal.h"
+	<iostream>
+	<string>
+
+1611614046 d:\ege\dosyalarým\c++\cpp_inheritance\basepersonal.h
+	<string>
+
+1611617354 source:d:\ege\dosyalarým\c++\cpp_inheritance\main.cpp
+	<iostream>
+	"Teacher.h"
+	"Student.h"
+
+1611614053 d:\ege\dosyalarým\c++\cpp_inheritance\teacher.h
+	<string>
+	"BasePersonal.h"
+
+1611614048 d:\ege\dosyalarým\c++\cpp_inheritance\student.h
+	<string>
+	"BasePersonal.h"
+
+1611613736 source:d:\ege\dosyalarým\c++\cpp_inheritance\student.cpp
+	"Student.h"
+	<iostream>
+	<string>
+
+1611614087 source:d:\ege\dosyalarým\c++\cpp_inheritance\teacher.cpp
+	"Student.h"
+	"Teacher.h"
+	<iostream>
+	<string>
+
